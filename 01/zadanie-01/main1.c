@@ -1,7 +1,10 @@
 #include <stdio.h>
-#include <stdlib.h>
-
 int main() {
-	printf("Hello World!");
-	return 0;
+    int wiek;
+    printf("Cześć użytkowniku, ile masz lat?");
+    scanf( "%d", &wiek);
+    printf("Masz %d lat.\n",wiek);
+    
+    
+return 0;
 }
