@@ -2,7 +2,7 @@
 int main(){
     int a,b,c,d,e;
     int ile=0;
-    printf("Podaj piec ocen")
+    printf("Podaj piec ocen");
     scanf ("%d %d %d %d %d", &a, &b, &c, &d, &e);
     printf("Srednia ocen:%.2f\n", (double)(a + b + c + d + e) / 5);
     if (a==1) ile++;
