@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main(){
+    int miesiac;
     printf("podaj numer miesiaca (1-12): ");
     scanf("%d", &miesiac);
 

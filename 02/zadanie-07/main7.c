@@ -10,8 +10,5 @@ int main(){
     printf("suma od 1 do %u podzielnych przez 3 wynosi: %u\n", granica, suma);
     
 
-
-
-
     return 0;
 }

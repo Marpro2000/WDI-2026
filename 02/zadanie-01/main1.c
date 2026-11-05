@@ -4,7 +4,7 @@ int main(){
     int suma = 0, ile = 0;
     int max, min;
 
-    printf("podawaj liczby do 0: \n");
+    printf("podawaj liczby : \n");
 
     while (1) {
         scanf("%d", &liczba);

@@ -59,7 +59,6 @@ return wynik;
 int main() {
 int opcja;
 do {
-printf("\n--- KALKULATOR ---\n");
 printf("1 - dodawanie n liczb\n");
 printf("2 - odejmowanie do podania 0\n");
 printf("3 - mnozenie dwoch liczb\n");
